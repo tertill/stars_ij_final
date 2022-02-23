@@ -1,0 +1,7 @@
+hello player! * (* means press any button and enter to continue)
+>hello! *
+you don't know yet, but soon there will be a feature where you can eat almost anything you find! *
+>like?
+maybe a blanket, a wooden plank, pieces of fabric used to increase your inventory space. you know, basic stuff that could be useful. *
+>oh. *
+>good to know! *

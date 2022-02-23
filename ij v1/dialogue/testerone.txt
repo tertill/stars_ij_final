@@ -1,0 +1,5 @@
+hello player! * (* means press any button and enter to continue)
+>hello! *
+}are you enjoying the test?
+[0 + enter] yeah!
+[1 + enter] nah.

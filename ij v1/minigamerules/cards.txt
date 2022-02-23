@@ -1,0 +1,9 @@
+alright!
+CARDS is a number game. * 
+You start off each turn with three cards - each with a number on it. *
+Your cards are all random numbers from 5-10. The opponents cards are all random numbers from 10 to 20! *
+Every turn the opponent selects one of their cards, and then you get to select two of yours! *
+If the numbers on your card add up to be greater than the number on the opponents card, the opponent gets -1 health *
+If the numbers on your card add up to be equal than the number on the opponents card, nothing happens *
+If the numbers on your card add up to be less than the number on the opponents card, youget -1 health *
+You win when the opponent has no health left. Good luck!
